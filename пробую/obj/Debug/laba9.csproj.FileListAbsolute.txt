@@ -1,0 +1,7 @@
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\obj\Debug\laba9.csproj.AssemblyReference.cache
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\obj\Debug\laba9.csproj.CoreCompileInputs.cache
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\obj\Debug\пробую.exe
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\obj\Debug\пробую.pdb
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\bin\Debug\пробую.exe.config
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\bin\Debug\пробую.exe
+C:\Users\natas\Desktop\Natali\Программирование\флешка 2 лаба\пробую\bin\Debug\пробую.pdb
